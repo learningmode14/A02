@@ -1,5 +1,5 @@
 # A02
-Part 1: Directions on Using Webstorm
+Part 1: Directions for downloading Git and Github
 Part 2: Glossary
 Branch
 Clone
